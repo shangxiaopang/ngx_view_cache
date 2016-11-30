@@ -1,0 +1,1 @@
+# ngx_view_cache
